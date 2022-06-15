@@ -22,19 +22,19 @@ const About = () => {
             description="Use decentralation, trusted node, premium data and cryptographic proofs to connect highly accurate and available data/APIs to any smart contract."
           />
           <Card
-            icon={<SiHiveBlockchain size={40} />}
-            title="Reliable, tamper-proof network"
-            description="Use decentralation, trusted node, premium data and cryptographic proofs to connect highly accurate and available data/APIs to any smart contract."
+            icon={<SiFsecure size={40} />}
+            title="Seamless connection to any API"
+            description="Build on a flexible framework that can retrieve data from any API, connect with existing systems, and integrate with any current or future blockchain."
           />
           <Card
-            icon={<SiHiveBlockchain size={40} />}
-            title="Reliable, tamper-proof network"
-            description="Use decentralation, trusted node, premium data and cryptographic proofs to connect highly accurate and available data/APIs to any smart contract."
+            icon={<SiStrapi size={40} />}
+            title="Proven, ready-made solutions"
+            description="Integrate pre-built, time-tested oracle solutions that already secure tens of billions in smart contract value for market-leading decentralized applications."
           />
           <Card
-            icon={<SiHiveBlockchain size={40} />}
-            title="Reliable, tamper-proof network"
-            description="Use decentralation, trusted node, premium data and cryptographic proofs to connect highly accurate and available data/APIs to any smart contract."
+            icon={<VscServerProcess size={40} />}
+            title="Secure off-chain computation"
+            description="Use a decentralized network of DeFi Keeper nodes to automate contracts, mitigating risk of manual interventions and centralized servers."
           />
         </div>
       </div>
