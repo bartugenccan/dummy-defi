@@ -7,7 +7,6 @@
 <p><font size="3">
   This website is a dummy DEFI website for practicing Tailwind and Typescript.
   <br><br> 
-  <strong><em>Here is the live version:</em></strong>https://typing-speed-4un.pages.dev/
 </p>
 <h2>
   Stack :rocket:
